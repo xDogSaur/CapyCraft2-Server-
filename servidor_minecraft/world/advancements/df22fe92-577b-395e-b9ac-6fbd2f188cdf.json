@@ -11616,15 +11616,45 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-01-06 21:17:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-06 21:21:58 +0000"
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_piston": {
+  "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
-      "has_redstone": "2025-01-06 21:40:15 +0000"
+      "has_water_bucket": "2025-01-06 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/amulet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-06 21:25:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-06 21:27:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-06 21:27:05 +0000"
     },
     "done": true
   },
@@ -11634,15 +11664,33 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/iron_gear": {
+  "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-06 21:39:01 +0000"
+      "roasted_acorn": "2025-01-06 21:36:13 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/assassin_necklace": {
+  "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
-      "has_bone": "2025-01-06 21:41:46 +0000"
+      "roasted_acorn": "2025-01-06 21:36:13 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-01-06 21:36:13 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-01-06 21:36:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-06 21:39:01 +0000"
     },
     "done": true
   },
@@ -11664,39 +11712,9 @@
     },
     "done": true
   },
-  "delightful:recipes/smelting/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-01-06 21:36:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-01-06 21:17:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-01-06 21:21:58 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-01-06 21:39:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-01-06 21:21:58 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/bone_knife": {
-    "criteria": {
-      "has_bones": "2025-01-06 21:41:46 +0000"
     },
     "done": true
   },
@@ -11712,21 +11730,9 @@
     },
     "done": true
   },
-  "delightful:recipes/smoking/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-01-06 21:36:13 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-01-06 21:39:01 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/tools/amulet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-06 21:25:28 +0000"
     },
     "done": true
   },
@@ -11736,33 +11742,9 @@
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_note_block": {
-    "criteria": {
-      "has_redstone": "2025-01-06 21:40:15 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/bone_quiver": {
-    "criteria": {
-      "has_bone": "2025-01-06 21:41:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_fletching_table": {
-    "criteria": {
-      "has_flint": "2025-01-06 21:27:05 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-01-06 21:39:01 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/nut_butter_bottle": {
-    "criteria": {
-      "has_nuts": "2025-01-06 21:36:13 +0000"
     },
     "done": true
   },
@@ -11778,21 +11760,111 @@
     },
     "done": true
   },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2025-01-06 21:36:13 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 21:39:01 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
-      "has_diamond_shovel": "2025-01-06 21:27:03 +0000"
+      "has_redstone": "2025-01-06 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-06 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-01-06 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-01-06 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-01-06 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 21:49:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-06 21:46:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-01-06 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-01-06 21:47:14 +0000"
     },
     "done": true
   },

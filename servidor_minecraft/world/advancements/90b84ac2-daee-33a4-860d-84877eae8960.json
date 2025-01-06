@@ -11552,6 +11552,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-01-06 22:06:23 +0000"
+    },
+    "done": true
+  },
   "createoreexcavation:recipes/misc/diamond_drill": {
     "criteria": {
       "diamond": "2025-01-06 21:55:57 +0000"
@@ -11579,6 +11585,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 22:06:23 +0000"
     },
     "done": true
   },
@@ -11669,6 +11681,12 @@
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-06 22:06:23 +0000"
     },
     "done": true
   },

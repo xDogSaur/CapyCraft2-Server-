@@ -5585,12 +5585,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-23 15:55:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-23 15:55:38 +0000"
@@ -11336,6 +11330,30 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-05 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-01-05 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-05 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-05 01:55:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 02:40:24 +0000"
@@ -11351,18 +11369,6 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 02:40:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-01-05 01:55:41 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-01-05 01:47:26 +0000"
     },
     "done": true
   },
@@ -11384,15 +11390,81 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "has_item": "2025-01-05 01:55:41 +0000"
+      "has_water_bucket": "2025-01-06 21:03:39 +0000"
     },
     "done": true
   },
-  "create:fan_processing": {
+  "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
-      "0": "2025-01-05 01:51:56 +0000"
+      "has_redstone": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_firework_rocket": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/amulet": {
+    "criteria": {
+      "has_emerald": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/silver]_nugget": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/electrum]_nugget": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-06 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 21:09:53 +0000"
     },
     "done": true
   },

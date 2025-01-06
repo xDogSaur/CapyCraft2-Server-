@@ -5212,12 +5212,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-21 22:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-21 22:49:24 +0000"
@@ -12606,6 +12600,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 01:03:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-30 01:07:32 +0000"
@@ -12624,45 +12624,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-30 01:03:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-30 01:41:35 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2024-12-30 01:08:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-30 01:07:32 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_haunted_guard": {
-    "criteria": {
-      "ambusher": "2024-12-30 01:50:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-30 01:07:32 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2024-12-30 01:53:33 +0000"
     },
     "done": true
   },
@@ -12690,12 +12660,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-30 02:06:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-30 01:07:32 +0000"
@@ -12720,9 +12684,123 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-12-30 01:08:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-12-30 01:09:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-30 01:41:35 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2024-12-30 01:50:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-30 01:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-30 02:06:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_firework_rocket": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-06 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-06 21:05:10 +0000"
     },
     "done": true
   },

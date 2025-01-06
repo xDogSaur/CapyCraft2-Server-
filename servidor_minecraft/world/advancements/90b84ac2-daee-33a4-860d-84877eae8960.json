@@ -11486,6 +11486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-06 22:42:03 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-06 21:15:44 +0000"
@@ -11546,6 +11552,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-06 22:43:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-06 21:55:57 +0000"
@@ -11558,9 +11570,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-06 22:43:57 +0000"
+    },
+    "done": true
+  },
   "createoreexcavation:recipes/misc/diamond_drill": {
     "criteria": {
       "diamond": "2025-01-06 21:55:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-06 22:43:57 +0000"
     },
     "done": true
   },
@@ -11570,9 +11594,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-06 22:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-06 22:43:57 +0000"
     },
     "done": true
   },
@@ -11636,6 +11672,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-01-06 22:44:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 21:15:44 +0000"
@@ -11654,9 +11696,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-06 22:41:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-01-06 21:40:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-01-06 22:40:21 +0000"
     },
     "done": true
   },
@@ -11690,6 +11744,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-06 22:43:57 +0000"
+    },
+    "done": true
+  },
   "createoreexcavation:recipes/misc/drill": {
     "criteria": {
       "iron": "2025-01-06 21:15:44 +0000"
@@ -11711,6 +11771,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-06 22:43:55 +0000"
     },
     "done": true
   },

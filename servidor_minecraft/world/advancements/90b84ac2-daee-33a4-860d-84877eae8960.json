@@ -11468,6 +11468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-06 23:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
@@ -11489,6 +11495,12 @@
   "railways:recipes/misc/crafting/track_switch_brass": {
     "criteria": {
       "has_item": "2025-01-06 23:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
     },
     "done": true
   },
@@ -11519,6 +11531,18 @@
   "alltheores:recipes/misc/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-06 23:44:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
     },
     "done": true
   },
@@ -11612,6 +11636,12 @@
     },
     "done": true
   },
+  "createoreexcavation:recipes/misc/vein_finder": {
+    "criteria": {
+      "diamond": "2025-01-06 23:44:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-01-06 22:06:23 +0000"
@@ -11693,6 +11723,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
     },
     "done": true
   },
@@ -11780,9 +11816,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
+    },
+    "done": true
+  },
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-01-06 23:23:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-06 23:44:42 +0000"
     },
     "done": true
   },
@@ -11810,6 +11858,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-06 23:44:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 23:27:35 +0000"
@@ -11825,6 +11879,12 @@
   "create:spout": {
     "criteria": {
       "0": "2025-01-06 23:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-06 23:44:39 +0000"
     },
     "done": true
   },
@@ -11864,6 +11924,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-06 23:44:35 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-01-06 23:17:08 +0000"
@@ -11876,6 +11942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-06 23:44:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-01-06 22:49:42 +0000"
@@ -11885,6 +11957,24 @@
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-01-06 23:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-06 23:44:39 +0000"
     },
     "done": true
   },
@@ -11930,6 +12020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-01-06 23:45:37 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-01-06 21:15:44 +0000"
@@ -11939,6 +12035,12 @@
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 23:44:42 +0000"
     },
     "done": true
   },

@@ -11796,6 +11796,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-06 21:53:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-01-06 21:49:46 +0000"
@@ -11811,6 +11817,12 @@
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2025-01-06 21:47:14 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-01-06 21:54:04 +0000"
     },
     "done": true
   },
@@ -11835,6 +11847,12 @@
   "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
       "has_item": "2025-01-06 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/electrum]_nugget": "2025-01-06 22:00:09 +0000"
     },
     "done": true
   },

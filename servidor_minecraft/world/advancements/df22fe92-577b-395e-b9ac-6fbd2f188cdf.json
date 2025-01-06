@@ -7181,6 +7181,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-01-06 21:22:47 +0000",
       "sugar_cane": "2024-12-30 03:41:04 +0000",
       "potato": "2025-01-04 22:54:58 +0000",
       "wheat": "2024-12-27 00:37:04 +0000"
@@ -11612,6 +11613,30 @@
   "skilltree:recipes/misc/iron_ring": {
     "criteria": {
       "has_nuggets_iron": "2025-01-06 20:00:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-01-06 21:17:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 21:21:58 +0000"
     },
     "done": true
   },

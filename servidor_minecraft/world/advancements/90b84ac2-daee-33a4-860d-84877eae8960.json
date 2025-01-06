@@ -11486,6 +11486,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2025-01-06 23:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-01-06 22:42:03 +0000"
@@ -11519,6 +11525,12 @@
   "alltheores:recipes/misc/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-01-06 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-01-06 23:14:43 +0000"
     },
     "done": true
   },
@@ -11579,6 +11591,12 @@
   "alltheores:recipes/misc/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-01-06 22:43:57 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/brass_knife": {
+    "criteria": {
+      "has_ingots/brass": "2025-01-06 23:11:04 +0000"
     },
     "done": true
   },
@@ -11714,6 +11732,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-01-06 21:40:51 +0000"
@@ -11792,9 +11816,21 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2025-01-06 23:09:56 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_ore_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-01-06 22:43:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
     },
     "done": true
   },
@@ -11804,9 +11840,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/brass_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
     },
     "done": true
   },

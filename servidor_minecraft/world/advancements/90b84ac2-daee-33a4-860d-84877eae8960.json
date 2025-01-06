@@ -11492,6 +11492,24 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/zinc_knife": {
+    "criteria": {
+      "has_ingots/zinc": "2025-01-06 23:27:35 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-06 23:28:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 23:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-01-06 22:42:03 +0000"
@@ -11519,6 +11537,12 @@
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-01-06 21:39:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2025-01-06 23:35:16 +0000"
     },
     "done": true
   },
@@ -11576,6 +11600,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-06 21:55:57 +0000"
@@ -11612,6 +11642,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 23:27:35 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-01-06 21:15:44 +0000"
@@ -11621,6 +11663,12 @@
   "alltheores:recipes/misc/copper_ingot_from_block": {
     "criteria": {
       "has_item": "2025-01-06 22:43:55 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-06 23:34:59 +0000"
     },
     "done": true
   },
@@ -11651,6 +11699,12 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-06 22:06:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2025-01-06 23:35:16 +0000"
     },
     "done": true
   },
@@ -11720,9 +11774,27 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-01-06 23:35:20 +0000"
+    },
+    "done": true
+  },
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-01-06 23:23:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2025-01-06 23:35:16 +0000"
     },
     "done": true
   },
@@ -11735,6 +11807,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-01-06 22:46:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 23:27:35 +0000"
     },
     "done": true
   },
@@ -11774,6 +11852,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 23:27:35 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-01-06 21:55:57 +0000"
@@ -11804,6 +11888,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-01-06 22:06:23 +0000"
@@ -11813,6 +11903,12 @@
   "alltheores:recipes/misc/copper_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-06 22:43:57 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2025-01-06 23:35:16 +0000"
     },
     "done": true
   },
@@ -11837,6 +11933,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2025-01-06 23:35:16 +0000"
     },
     "done": true
   },

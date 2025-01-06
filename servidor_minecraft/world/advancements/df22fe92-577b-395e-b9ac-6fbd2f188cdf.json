@@ -11838,6 +11838,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-01-06 22:14:13 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2025-01-06 21:47:14 +0000"
@@ -11910,6 +11916,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-01-06 22:13:42 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-01-06 22:12:28 +0000"
@@ -11955,6 +11967,18 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-06 22:03:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-01-06 22:13:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-01-06 22:13:42 +0000"
     },
     "done": true
   },

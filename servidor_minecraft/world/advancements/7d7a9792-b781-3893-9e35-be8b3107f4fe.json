@@ -12358,81 +12358,9 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_barrel": {
-    "criteria": {
-      "has_slabs": "2025-01-07 02:24:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-01-07 02:00:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_piston": {
-    "criteria": {
-      "has_redstone": "2025-01-07 02:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_gloves": {
-    "criteria": {
-      "has_iron": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
@@ -12472,21 +12400,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/coal_generator": {
-    "criteria": {
-      "has_coal_generator": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
@@ -12496,87 +12412,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2025-01-07 02:20:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/silver_knife": {
-    "criteria": {
-      "has_ingots/silver": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/compressor": {
-    "criteria": {
-      "has_compressor": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
   "witherstormmod:recipes/tools/amulet": {
     "criteria": {
       "has_diamond": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:nuggets/silver]_nugget": "2025-01-07 02:04:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_pendant": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
@@ -12589,18 +12427,6 @@
   "alltheores:recipes/misc/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_note_block": {
-    "criteria": {
-      "has_redstone": "2025-01-07 02:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
@@ -12628,15 +12454,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+  "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
-      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+      "has_diamond": "2025-01-07 01:58:11 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_fletching_table": {
+  "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
-      "has_flint": "2025-01-07 02:28:17 +0000"
+      "has_lots_of_items": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 02:00:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-07 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/coal_generator": {
+    "criteria": {
+      "has_coal_generator": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/compressor": {
+    "criteria": {
+      "has_compressor": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
     },
     "done": true
   },
@@ -12658,12 +12580,6 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_jukebox": {
-    "criteria": {
-      "has_diamond": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/silver_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
@@ -12676,27 +12592,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/silver]_nugget": "2025-01-07 02:04:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-07 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-07 02:24:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-07 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-07 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-07 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "cave_book": "2025-01-07 02:00:59 +0000"
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_chest": {
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_lots_of_items": "2025-01-07 01:58:11 +0000"
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/iron_ring": {
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-07 02:33:39 +0000"
     },
     "done": true
   },
@@ -12709,18 +12721,6 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-07 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/diamond_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-07 01:58:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-01-07 01:58:11 +0000"
     },
     "done": true
   },

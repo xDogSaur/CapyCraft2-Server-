@@ -1919,3 +1919,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jan2025 21:47:31.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Don't Cross the Streams!]
 [07Jan2025 21:48:34.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
 [07Jan2025 22:05:49.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[07Jan2025 22:59:45.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.98.228.50:46319] logged in with entity id 74760 at (367.81962538514324, 63.0, -16.802706431710874)
+[07Jan2025 22:59:45.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[07Jan2025 22:59:45.932] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[07Jan2025 23:05:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Tapping the Mantle]

@@ -12000,9 +12000,9 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_cartography_table": {
+  "skilltree:recipes/misc/golden_ring": {
     "criteria": {
-      "has_paper": "2025-01-07 01:42:41 +0000"
+      "has_nuggets_gold": "2025-01-07 01:11:12 +0000"
     },
     "done": true
   },
@@ -12024,12 +12024,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_zinc_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-07 01:48:44 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-01-07 01:16:33 +0000"
@@ -12042,12 +12036,6 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-01-07 01:11:12 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-01-07 01:16:33 +0000"
@@ -12057,6 +12045,18 @@
   "alltheores:recipes/misc/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-07 01:16:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-07 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-07 01:48:44 +0000"
     },
     "done": true
   },

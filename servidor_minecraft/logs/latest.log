@@ -112,3 +112,53 @@
 [07Jan2025 01:44:59.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
 [07Jan2025 01:45:17.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
 [07Jan2025 01:48:28.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved wrongly!
+[07Jan2025 01:54:08.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[07Jan2025 01:54:21.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[07Jan2025 01:54:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[07Jan2025 01:54:21.873] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jan2025 01:57:23.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.68.160.32:42431] logged in with entity id 257568 at (2761.5794362834595, 64.0, 2894.699999988079)
+[07Jan2025 01:57:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[07Jan2025 01:57:24.064] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[07Jan2025 01:57:29.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[07Jan2025 01:58:11.613] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pumpkin_pie removed now.
+[07Jan2025 01:58:11.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: create:crafting/curiosities/cake removed now.
+[07Jan2025 01:58:11.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: create:crafting/curiosities/cake removed now.
+[07Jan2025 01:58:11.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.89.184.116:53219] logged in with entity id 258433 at (-187.5268007141309, -35.0, 928.2728208181289)
+[07Jan2025 01:58:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[07Jan2025 01:58:11.876] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[07Jan2025 01:58:13.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[07Jan2025 01:58:35.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7395ms or 147 ticks behind
+[07Jan2025 01:58:56.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5698ms or 113 ticks behind
+[07Jan2025 01:59:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> xaero-waypoint:Casa:C:354:63:-2:13:false:0:Internal-overworld-waypoints
+[07Jan2025 01:59:13.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[07Jan2025 01:59:32.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[07Jan2025 01:59:50.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3609ms or 72 ticks behind
+[07Jan2025 02:00:08.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[07Jan2025 02:00:28.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5205ms or 104 ticks behind
+[07Jan2025 02:00:46.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[07Jan2025 02:00:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Once Upon a Cave]
+[07Jan2025 02:01:03.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[07Jan2025 02:01:22.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4465ms or 89 ticks behind
+[07Jan2025 02:01:24.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved wrongly!
+[07Jan2025 02:01:42.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4388ms or 87 ticks behind
+[07Jan2025 02:01:56.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 17.04670882827463,-4.958994567577463,-4.242503275882498
+[07Jan2025 02:01:56.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -2.1619135394925024,3.8047460224126937,9.089150015218593
+[07Jan2025 02:02:13.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16411ms or 328 ticks behind
+[07Jan2025 02:02:47.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18917ms or 378 ticks behind
+[07Jan2025 02:02:55.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 14.628199153220034,1.7086745069175464,-10.917789894673774
+[07Jan2025 02:02:55.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 10.139065368495267,2.334581439190231,0.3289989933346078
+[07Jan2025 02:03:01.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 11.245031853732861,1.0786712127570013,-14.3031758443733
+[07Jan2025 02:03:06.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 2.9524385667699846,-1.434070860704466,-18.066523512239428
+[07Jan2025 02:03:22.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 5.281553947607023,-2.3405084644065113,-16.949013623189103
+[07Jan2025 02:03:27.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 4.849105300736625,-2.4547947521109847,-16.600874678277705
+[07Jan2025 02:03:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[07Jan2025 02:03:31.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28778ms or 575 ticks behind
+[07Jan2025 02:03:33.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 4.56396730451732,3.140773496108338,-16.972193676700613
+[07Jan2025 02:03:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 5.875984239297253,0.8091267219289762,-17.25752885779542
+[07Jan2025 02:03:42.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 4.8446565694170545,-0.07467806900743312,-16.83569312748989
+[07Jan2025 02:03:46.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 4.305998032973378,-3.769657145222027,-16.81154429678037
+[07Jan2025 02:03:53.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! 5.384229546435449,-0.7455540226488182,-16.944345878752102
+[07Jan2025 02:03:58.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -1.5898655203946532,-4.372664728425278,-18.418713554169006
+[07Jan2025 02:04:04.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! -3.0937896118816752,0.7531999805212024,9.752377259157583
+[07Jan2025 02:04:04.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa moved too quickly! -11.257587001200932,-9.435316954380752,-9.860817396017074
+[07Jan2025 02:04:14.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28716ms or 574 ticks behind

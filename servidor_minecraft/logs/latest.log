@@ -22,3 +22,8 @@
 [07Jan2025 00:36:16.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [07Jan2025 00:39:02.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
 [07Jan2025 00:39:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[07Jan2025 01:00:15.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.68.160.32:43197] logged in with entity id 202237 at (2769.5076056372477, 67.0, 2901.3058381659816)
+[07Jan2025 01:00:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[07Jan2025 01:00:15.677] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[07Jan2025 01:00:18.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Jan2025 01:00:38.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5636ms or 112 ticks behind

@@ -12424,6 +12424,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-01-07 22:27:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-07 21:38:53 +0000"
@@ -12433,6 +12439,12 @@
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_weeping_vines": "2025-01-07 21:57:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-07 22:39:48 +0000"
     },
     "done": true
   },
@@ -12517,6 +12529,12 @@
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-07 21:38:53 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-01-07 22:27:32 +0000"
     },
     "done": true
   },

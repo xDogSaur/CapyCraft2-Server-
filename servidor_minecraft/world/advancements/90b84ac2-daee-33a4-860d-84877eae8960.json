@@ -317,6 +317,7 @@
       "minecraft:beach": "2024-12-30 15:54:00 +0000",
       "minecraft:river": "2024-12-23 01:51:47 +0000",
       "minecraft:snowy_plains": "2024-12-23 02:07:39 +0000",
+      "minecraft:stony_shore": "2025-01-07 02:17:17 +0000",
       "minecraft:snowy_taiga": "2024-12-23 02:07:41 +0000",
       "minecraft:dripstone_caves": "2025-01-04 21:08:00 +0000",
       "minecraft:cold_ocean": "2024-12-23 01:26:59 +0000",
@@ -11475,15 +11476,33 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-07 02:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-06 23:44:39 +0000"
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-07 02:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-01-07 02:19:14 +0000"
     },
     "done": true
   },
@@ -11625,6 +11644,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-01-07 02:15:05 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-06 21:15:44 +0000"
@@ -11640,6 +11665,12 @@
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-01-07 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jam_jar": {
+    "criteria": {
+      "has_sweet_fruit": "2025-01-07 02:32:14 +0000"
     },
     "done": true
   },
@@ -11751,6 +11782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-07 02:14:06 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/rock_candy": {
     "criteria": {
       "has_rose_quartz": "2025-01-06 23:34:59 +0000"
@@ -11760,6 +11797,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-01-07 02:20:04 +0000"
     },
     "done": true
   },
@@ -11784,6 +11827,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-01-07 00:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-07 02:19:14 +0000"
     },
     "done": true
   },
@@ -11829,6 +11878,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-01-07 02:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
@@ -11862,6 +11917,12 @@
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-01-07 02:32:14 +0000"
     },
     "done": true
   },
@@ -11970,6 +12031,12 @@
   "alltheores:recipes/misc/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-06 22:41:57 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-01-07 02:29:52 +0000"
     },
     "done": true
   },
@@ -12171,6 +12238,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_cure_ingredient": "2025-01-07 02:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-01-06 23:45:37 +0000"
@@ -12180,6 +12253,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-01-07 02:18:41 +0000"
     },
     "done": true
   },
@@ -12204,6 +12283,12 @@
   "railways:recipes/misc/crafting/remote_lens": {
     "criteria": {
       "has_item": "2025-01-06 23:09:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-07 02:19:14 +0000"
     },
     "done": true
   },
@@ -12270,6 +12355,12 @@
   "alltheores:recipes/misc/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-06 21:55:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-07 02:14:06 +0000"
     },
     "done": true
   },

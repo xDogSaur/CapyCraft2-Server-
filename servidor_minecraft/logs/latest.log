@@ -231,3 +231,58 @@
 [07Jan2025 02:14:27.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.02976000760873,-0.7539862017387549,0.2428943793408962
 [07Jan2025 02:14:52.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21825ms or 436 ticks behind
 [07Jan2025 02:14:59.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 4.354328467394453,0.07242780368044066,9.047833635584766
+[07Jan2025 02:15:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [A Freezing Place]
+[07Jan2025 02:15:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luzbel1t0> A
+[07Jan2025 02:15:20.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[07Jan2025 02:15:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[07Jan2025 02:15:20.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[07Jan2025 02:15:34.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.68.160.32:56589] logged in with entity id 276830 at (2795.347587987285, 67.92159999847412, 2918.5062531376707)
+[07Jan2025 02:15:34.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[07Jan2025 02:15:34.533] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[07Jan2025 02:15:45.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -1.7195765317314908,0.41999998688697815,9.948673989359577
+[07Jan2025 02:15:50.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42938ms or 858 ticks behind
+[07Jan2025 02:16:15.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10190ms or 203 ticks behind
+[07Jan2025 02:16:21.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[07Jan2025 02:16:37.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
+[07Jan2025 02:17:00.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
+[07Jan2025 02:17:25.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10349ms or 206 ticks behind
+[07Jan2025 02:17:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has reached the goal [Workout Session]
+[07Jan2025 02:17:48.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8335ms or 166 ticks behind
+[07Jan2025 02:18:11.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7407ms or 148 ticks behind
+[07Jan2025 02:18:33.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7037ms or 140 ticks behind
+[07Jan2025 02:18:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has completed the challenge [The Coldest Golem]
+[07Jan2025 02:18:56.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8410ms or 168 ticks behind
+[07Jan2025 02:19:02.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 6.140989908866686,0.0,7.967602450199593
+[07Jan2025 02:19:23.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12413ms or 248 ticks behind
+[07Jan2025 02:19:49.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10738ms or 214 ticks behind
+[07Jan2025 02:20:11.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
+[07Jan2025 02:20:33.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6798ms or 135 ticks behind
+[07Jan2025 02:20:52.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -10.062403393392401,1.1767592750642422,1.5721766928255931
+[07Jan2025 02:20:59.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11461ms or 229 ticks behind
+[07Jan2025 02:21:19.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[07Jan2025 02:21:37.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
+[07Jan2025 02:21:55.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[07Jan2025 02:22:17.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6489ms or 129 ticks behind
+[07Jan2025 02:22:34.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[07Jan2025 02:22:52.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
+[07Jan2025 02:22:54.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[07Jan2025 02:22:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[07Jan2025 02:23:12.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4831ms or 96 ticks behind
+[07Jan2025 02:26:10.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[07Jan2025 02:29:00.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[07Jan2025 02:29:20.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Jan2025 02:29:38.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[07Jan2025 02:29:57.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jan2025 02:31:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Local Brewery]
+[07Jan2025 02:33:17.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.68.160.32:47887] logged in with entity id 289307 at (2756.9437519850944, 65.0, 2898.618754877106)
+[07Jan2025 02:33:17.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[07Jan2025 02:33:17.731] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[07Jan2025 02:33:21.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[07Jan2025 02:33:50.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13386ms or 267 ticks behind
+[07Jan2025 02:34:08.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
+[07Jan2025 02:34:26.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[07Jan2025 02:34:43.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Jan2025 02:35:01.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[07Jan2025 02:35:20.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[07Jan2025 02:35:38.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[07Jan2025 02:35:56.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind

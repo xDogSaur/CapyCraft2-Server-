@@ -12358,9 +12358,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-07 02:24:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-01-07 02:00:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-07 02:31:20 +0000"
     },
     "done": true
   },
@@ -12454,6 +12466,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-07 02:20:04 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/silver_knife": {
     "criteria": {
       "has_ingots/silver": "2025-01-07 02:04:46 +0000"
@@ -12514,6 +12532,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-07 02:31:20 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2025-01-07 01:58:11 +0000"
@@ -12535,6 +12559,12 @@
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-07 02:28:17 +0000"
     },
     "done": true
   },

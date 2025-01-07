@@ -12000,6 +12000,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-07 01:42:41 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-07 01:16:33 +0000"
@@ -12015,6 +12021,12 @@
   "createoreexcavation:recipes/misc/diamond_drill": {
     "criteria": {
       "diamond": "2025-01-07 01:16:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-01-07 01:48:44 +0000"
     },
     "done": true
   },

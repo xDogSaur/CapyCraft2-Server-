@@ -12736,6 +12736,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-01-07 23:42:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-01-07 23:22:57 +0000"
@@ -12754,6 +12760,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-07 23:41:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-01-07 23:24:29 +0000"
@@ -12763,6 +12775,24 @@
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-01-07 23:27:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-07 23:41:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-07 23:41:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-07 23:41:13 +0000"
     },
     "done": true
   },
@@ -12793,6 +12823,12 @@
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-01-07 23:27:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-07 23:41:13 +0000"
     },
     "done": true
   },

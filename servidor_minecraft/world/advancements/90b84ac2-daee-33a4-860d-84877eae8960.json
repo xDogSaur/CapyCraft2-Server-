@@ -383,6 +383,7 @@
       "field": "2024-12-28 23:52:14 +0000",
       "overgrown_greens": "2025-01-01 00:21:45 +0000",
       "coniferous_forest": "2024-12-23 00:39:57 +0000",
+      "hot_springs": "2025-01-07 02:11:07 +0000",
       "forested_field": "2024-12-26 17:51:44 +0000",
       "redwood_forest": "2025-01-01 00:21:47 +0000",
       "visceral_heap": "2024-12-29 02:20:03 +0000",
@@ -11462,6 +11463,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-01-06 21:39:29 +0000"
@@ -11504,6 +11511,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/zinc_knife": {
     "criteria": {
       "has_ingots/zinc": "2025-01-06 23:27:35 +0000"
@@ -11540,6 +11553,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/teleportation_robe_leggings": {
     "criteria": {
       "has_ender_eye": "2025-01-06 23:44:42 +0000"
@@ -11549,6 +11574,12 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-01-06 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -11678,6 +11709,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-06 22:43:57 +0000"
@@ -11699,6 +11736,12 @@
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -11774,6 +11817,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 21:15:44 +0000"
@@ -11792,15 +11841,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 21:15:17 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-01-06 21:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -11912,6 +11979,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-06 23:44:39 +0000"
@@ -11954,9 +12027,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2025-01-06 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -12038,9 +12123,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2025-01-06 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -12053,6 +12150,12 @@
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-01-06 21:55:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },
@@ -12092,6 +12195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/remote_lens": {
     "criteria": {
       "has_item": "2025-01-06 23:09:56 +0000"
@@ -12116,6 +12225,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/brass_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
@@ -12131,6 +12246,12 @@
   "alltheores:recipes/misc/brass_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-01-06 23:11:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-07 02:10:01 +0000"
     },
     "done": true
   },

@@ -12364,9 +12364,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-01-07 02:04:46 +0000"
     },
     "done": true
   },
@@ -12406,6 +12436,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/coal_generator": {
+    "criteria": {
+      "has_coal_generator": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-07 01:58:11 +0000"
@@ -12418,9 +12454,51 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/compressor": {
+    "criteria": {
+      "has_compressor": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/tools/amulet": {
     "criteria": {
       "has_diamond": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/silver]_nugget": "2025-01-07 02:04:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
     },
     "done": true
   },
@@ -12460,9 +12538,39 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/armored_quiver": {
+    "criteria": {
+      "has_ingots_iron": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "createoreexcavation:recipes/misc/drill": {
+    "criteria": {
+      "iron": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-01-07 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
+    "criteria": {
+      "has_item": "2025-01-07 02:04:46 +0000"
     },
     "done": true
   },
@@ -12475,6 +12583,12 @@
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-07 01:58:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 02:04:46 +0000"
     },
     "done": true
   },

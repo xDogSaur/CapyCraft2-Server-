@@ -12724,5 +12724,53 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-01-07 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-07 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-07 23:22:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-07 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-07 23:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-07 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-07 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-07 23:20:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

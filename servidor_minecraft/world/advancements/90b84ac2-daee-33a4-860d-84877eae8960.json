@@ -12430,6 +12430,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_weeping_vines": "2025-01-07 21:57:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-07 21:38:53 +0000"
@@ -12460,9 +12466,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-07 21:59:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-01-07 21:46:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_weeping_vines": "2025-01-07 21:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-07 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-01-07 21:57:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_weeping_vines": "2025-01-07 21:57:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_weeping_vines": "2025-01-07 21:57:39 +0000"
     },
     "done": true
   },
@@ -12481,6 +12523,12 @@
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-07 21:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-07 22:00:15 +0000"
     },
     "done": true
   },

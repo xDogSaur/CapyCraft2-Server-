@@ -11570,6 +11570,12 @@
     },
     "done": true
   },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-01-07 00:28:32 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-01-06 21:39:29 +0000"

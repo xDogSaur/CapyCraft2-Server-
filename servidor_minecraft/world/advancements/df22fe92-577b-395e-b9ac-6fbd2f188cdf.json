@@ -11982,5 +11982,17 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-07 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 00:28:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

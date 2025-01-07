@@ -9,3 +9,16 @@
 [07Jan2025 00:03:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -17.743590746928078,-2.4022176545747413,4.453177997141893
 [07Jan2025 00:03:40.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [07Jan2025 00:10:48.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[07Jan2025 00:21:35.510] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "main" inventory handler
+[07Jan2025 00:24:28.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[07Jan2025 00:26:33.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[07Jan2025 00:26:58.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! -15.716366574260803,7.386733731422865,5.060386769121635
+[07Jan2025 00:26:58.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[07Jan2025 00:28:32.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [A Strong Breeze]
+[07Jan2025 00:31:25.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[07Jan2025 00:31:35.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved too quickly! 16.929779684999687,-4.820430933116569,-2.8773567563822304
+[07Jan2025 00:31:45.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5190ms or 103 ticks behind
+[07Jan2025 00:35:33.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[07Jan2025 00:36:16.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Jan2025 00:39:02.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[07Jan2025 00:39:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game

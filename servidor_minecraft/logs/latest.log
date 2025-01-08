@@ -1961,3 +1961,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jan2025 23:48:39.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-57, z=78}
 [07Jan2025 23:48:39.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-57, z=79}
 [07Jan2025 23:49:01.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10471ms or 209 ticks behind
+[07Jan2025 23:49:26.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Jan2025 23:49:55.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14099ms or 281 ticks behind
+[07Jan2025 23:50:15.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has completed the challenge [Rude Awakening]
+[07Jan2025 23:52:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [The Song of the Dragons]
+[07Jan2025 23:59:24.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.78.37.39:56901] logged in with entity id 133170 at (2762.2007537120794, 66.0, 2902.5833002576796)
+[07Jan2025 23:59:24.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[07Jan2025 23:59:24.704] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[07Jan2025 23:59:33.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Jan2025 23:59:55.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind

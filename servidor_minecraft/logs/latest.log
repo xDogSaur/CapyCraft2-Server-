@@ -2843,3 +2843,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jan2025 18:20:59.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:55775] logged in with entity id 2195 at (344.38456316050906, 63.0, -12.840532964878246)
 [09Jan2025 18:20:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
 [09Jan2025 18:20:59.874] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[09Jan2025 18:27:24.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Zombie
+[09Jan2025 18:27:25.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Jan2025 18:29:39.512] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/tools/amulet' in progress file ./world/advancements/df22fe92-577b-395e-b9ac-6fbd2f188cdf.json - it doesn't exist anymore?
+[09Jan2025 18:29:39.513] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/redstone/firework_bundle' in progress file ./world/advancements/df22fe92-577b-395e-b9ac-6fbd2f188cdf.json - it doesn't exist anymore?
+[09Jan2025 18:29:39.542] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:29:39.543] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:amulet removed now.
+[09Jan2025 18:29:39.544] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:29:39.545] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:amulet removed now.
+[09Jan2025 18:29:39.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.15.79.55:58663] logged in with entity id 7125 at (2762.923498713695, 66.0, 2901.809518324514)
+[09Jan2025 18:29:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[09Jan2025 18:29:39.701] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[09Jan2025 18:29:44.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[09Jan2025 18:30:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[09Jan2025 18:31:54.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[09Jan2025 18:31:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[09Jan2025 18:31:54.723] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 18:32:48.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.15.79.55:44099] logged in with entity id 10102 at (2762.8300495172575, 66.0, 2902.1164500339446)
+[09Jan2025 18:32:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[09Jan2025 18:32:48.902] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[09Jan2025 18:33:13.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[09Jan2025 18:34:00.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[09Jan2025 18:36:07.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind

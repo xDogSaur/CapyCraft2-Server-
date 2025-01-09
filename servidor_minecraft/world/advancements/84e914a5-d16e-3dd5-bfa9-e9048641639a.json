@@ -12756,12 +12756,6 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/firework_bundle": {
-    "criteria": {
-      "has_firework_rocket": "2025-01-06 21:05:10 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-01-06 21:05:10 +0000"

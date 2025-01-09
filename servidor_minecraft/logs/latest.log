@@ -2823,3 +2823,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jan2025 18:11:26.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sa<--[HERE]
 [09Jan2025 18:11:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Jan2025 18:11:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: y<--[HERE]
+[09Jan2025 18:18:18.227] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/redstone/firework_bundle' in progress file ./world/advancements/90b84ac2-daee-33a4-860d-84877eae8960.json - it doesn't exist anymore?
+[09Jan2025 18:18:18.228] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/tools/amulet' in progress file ./world/advancements/90b84ac2-daee-33a4-860d-84877eae8960.json - it doesn't exist anymore?
+[09Jan2025 18:18:18.229] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/food/golden_apple_stew' in progress file ./world/advancements/90b84ac2-daee-33a4-860d-84877eae8960.json - it doesn't exist anymore?
+[09Jan2025 18:18:18.375] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:golden_apple_stew removed now.
+[09Jan2025 18:18:18.378] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:18:18.379] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:amulet removed now.
+[09Jan2025 18:18:18.381] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:golden_apple_stew removed now.
+[09Jan2025 18:18:18.383] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:18:18.384] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:amulet removed now.
+[09Jan2025 18:18:18.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.194.27.115:37733] logged in with entity id 105 at (317.23456705762976, 55.0, 67.59767342191032)
+[09Jan2025 18:18:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[09Jan2025 18:18:19.355] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[09Jan2025 18:18:20.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[09Jan2025 18:18:55.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19388ms or 387 ticks behind
+[09Jan2025 18:20:59.418] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'witherstormmod:recipes/redstone/firework_bundle' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[09Jan2025 18:20:59.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:20:59.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: witherstormmod:firework_bundle removed now.
+[09Jan2025 18:20:59.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:55775] logged in with entity id 2195 at (344.38456316050906, 63.0, -12.840532964878246)
+[09Jan2025 18:20:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[09Jan2025 18:20:59.874] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)

@@ -11410,12 +11410,6 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/firework_bundle": {
-    "criteria": {
-      "has_firework_rocket": "2025-01-06 21:03:39 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-06 21:03:39 +0000"
@@ -11425,12 +11419,6 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-06 21:03:39 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/tools/amulet": {
-    "criteria": {
-      "has_emerald": "2025-01-06 21:03:39 +0000"
     },
     "done": true
   },
@@ -12313,12 +12301,6 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-01-07 02:14:06 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/food/golden_apple_stew": {
-    "criteria": {
-      "has_cure_ingredient": "2025-01-07 02:14:06 +0000"
     },
     "done": true
   },

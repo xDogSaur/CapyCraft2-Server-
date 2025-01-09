@@ -2818,3 +2818,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jan2025 17:59:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Jan2025 17:59:27.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
 [09Jan2025 17:59:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asdasdadsasdasdads
+[09Jan2025 18:11:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[09Jan2025 18:11:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jan2025 18:11:26.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sa<--[HERE]
+[09Jan2025 18:11:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jan2025 18:11:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: y<--[HERE]

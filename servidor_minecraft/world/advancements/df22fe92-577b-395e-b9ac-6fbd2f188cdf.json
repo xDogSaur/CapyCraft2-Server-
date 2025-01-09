@@ -12096,12 +12096,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-01-09 19:39:39 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/electrum_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-01-09 19:01:55 +0000"
@@ -12114,12 +12108,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "fried_rice": "2025-01-09 19:39:39 +0000"
-    },
-    "done": false
-  },
   "delightful:recipes/knives/electrum_knife": {
     "criteria": {
       "has_ingots/electrum": "2025-01-09 19:01:55 +0000"
@@ -12129,12 +12117,6 @@
   "alltheores:recipes/misc/electrum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/electrum]_ingot": "2025-01-09 19:01:55 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-01-09 19:43:54 +0000"
     },
     "done": true
   },
@@ -12153,6 +12135,24 @@
   "aether:recipes/tools/golden_hoe_repairing": {
     "criteria": {
       "has_golden_hoe": "2025-01-09 19:32:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-09 19:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2025-01-09 19:39:39 +0000"
+    },
+    "done": false
+  },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-09 19:43:54 +0000"
     },
     "done": true
   },

@@ -12132,5 +12132,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-01-09 19:32:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -12798,5 +12798,17 @@
     },
     "done": true
   },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-09 18:40:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-01-09 18:36:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
